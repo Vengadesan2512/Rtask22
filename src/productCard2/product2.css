@@ -1,0 +1,35 @@
+.card-desig-2{
+   display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 440px;
+  gap: 2rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  justify-content: center;
+  text-align: center;
+   padding: 5px;
+   background-color: whitesmoke;
+   border-radius: 10px;
+   box-shadow: 3px 3px 3px 1px;
+
+}
+
+.opa-city{
+opacity: .5;
+
+}
+.btn{
+  width: 250px;
+  height: 25px;
+  border-radius: 2px;
+  border: none;
+  box-shadow: 3px 3px 3px 1px;
+  background-color: rgb(5, 148, 196);
+   margin-left: 45px;
+}
+.p-2{
+   display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
